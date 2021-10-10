@@ -16,3 +16,54 @@ html{
 {
 		box-sizing: inherit;
 }
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.titleText {
+    font-family: cochin, Times, serif;
+    font-size: 80px;
+    color: white;
+    font-weight: bold;
+    background-color: #9BB53E;
+}
+.roleText {
+    font-family: cochin, Times, serif;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+.greenCicle {
+    background-color: #9BB53E;
+    vertical-align: middle;
+    font-weight: bold;
+    padding: 120px, 50px;
+    border-radius: 50%;
+    color: white;
+
+}
+
+.greenCon {
+    background-color: #9BB53E;
+}
+.btn_submit {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    padding: 24px 150px;
+    text-transform: uppercase;
+    border: 2px solid #9BB53E;
+    cursor: pointer;
+    transition: 0.3s;
+    transform: translate(-50%, -75%);
+    margin: 10px 0;
+    background-color: #9BB53E;
+  }
+
+  .roundphoto {
+      border-radius: 50%;
+  }
