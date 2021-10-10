@@ -60,7 +60,6 @@ html{
     font-weight: 800;
     letter-spacing: 1.5px;
     padding: 24px 150px;
-    text-transform: uppercase;
     border: 2px solid #9BB53E;
     cursor: pointer;
     transition: 0.3s;
@@ -71,4 +70,12 @@ html{
 
   .roundphoto {
       border-radius: 50%;
+  }
+
+  body {
+      font-family: "Times New Roman', Times, serif";
+      font-size: 18px;
+      color: black;
+      letter-spacing: 1.5px;
+
   }
