@@ -23,8 +23,6 @@
   },
   "homepage": "https://github.com/Oksil-Joo/Joo_Oksil_FIP_V3#readme",
   "dependencies": {
-    "axios": "^0.22.0",
-    "jquery": "^3.6.0",
-    "underscore": "^1.13.1"
+    "gulp": "^4.0.2"
   }
 }
