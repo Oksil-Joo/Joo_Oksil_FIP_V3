@@ -1,0 +1,30 @@
+{
+  "name": "joo_oksil_fip_v3",
+  "version": "1.0.0",
+  "description": "crack at npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oksil-Joo/Joo_Oksil_FIP_V3.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "[ackage",
+    "management"
+  ],
+  "author": "JOO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oksil-Joo/Joo_Oksil_FIP_V3/issues"
+  },
+  "homepage": "https://github.com/Oksil-Joo/Joo_Oksil_FIP_V3#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "jquery": "^3.6.0",
+    "underscore": "^1.13.1"
+  }
+}
