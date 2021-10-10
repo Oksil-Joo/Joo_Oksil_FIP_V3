@@ -1,6 +1,7 @@
 
 # Final Integrated Project: OksilJoo Portfolio
 ![Untitled-2](https://user-images.githubusercontent.com/72535594/136686402-29f47b98-17cd-4906-bbae-df26c2a215e2.png)<br/>
+### Concept
 This is an Oksil’s final integrated assignment. I create a portfolio website based on the HTML/CSS/JAVA Script/ SCSS. The work is responsible for designing, coding, and semantically tagging a responsive HTML5 website. The concept of my website is **Oksil Joo**. The inspiration for my creation comes from me, which is The concept of this portfolio is open mind and nature. So, the open mind was expressed using a circle, and nature was expressed through wordmark and Macaw Green.
 
 ### Main color
